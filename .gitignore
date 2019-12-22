@@ -1,0 +1,14 @@
+**/myvenv/
+**/venv/
+*.swp
+**/node_modules/
+**/__pycache__/
+.idea
+.DS_Store
+.vscode
+
+# 環境変数 設定ファイル
+.env
+
+# db
+dbdata/
